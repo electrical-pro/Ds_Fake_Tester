@@ -9,4 +9,5 @@ Watch how it works https://youtu.be/gzyqUVxOktY
 
 # Components
 ESP8266: https://s.click.aliexpress.com/e/_97j7kp
+
 OLED Display: https://s.click.aliexpress.com/e/_9AdhMZ
