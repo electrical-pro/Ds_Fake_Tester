@@ -6,3 +6,7 @@ The fake sensor doesn't support 9, 10-bit resolution, and doesn't store values i
 Watch how it works https://youtu.be/gzyqUVxOktY
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/gzyqUVxOktY/0.jpg)](http://www.youtube.com/watch?v=gzyqUVxOktY "Video Title")
+
+# Components
+ESP8266: https://s.click.aliexpress.com/e/_97j7kp
+OLED Display: https://s.click.aliexpress.com/e/_9AdhMZ
