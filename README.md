@@ -10,8 +10,10 @@ Watch how it works https://youtu.be/gzyqUVxOktY
 Tested with 1.2.0 version of Adafruit SSD1306 library: https://github.com/adafruit/Adafruit_SSD13
 ![image](https://user-images.githubusercontent.com/31592485/145067027-0089f67d-9602-4342-bc47-b28c946707d9.png)
 
-SDA to D1
-SCK to D5
+# Connections
+SDA to D1 (GPIO5)
+
+SCK to D5 (GPIO14)
 
 # Components
 ESP8266: https://s.click.aliexpress.com/e/_97j7kp
