@@ -20,6 +20,10 @@ Adafruit SSD1306 library: https://github.com/adafruit/Adafruit_SSD13
 
 Tested with ESP8266 Core 2.7.4
 
+# Update
+Support for Adafruit SSD1306 library 2.5.0 ESP8266/ESP32
+https://github.com/electrical-pro/Ds_Fake_Tester/issues/1#issuecomment-988925914
+
 # Connections
 SDA to D1 (GPIO5)
 
