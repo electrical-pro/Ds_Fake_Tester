@@ -3,9 +3,9 @@ DS18B20 Fake tester sketch
 This sketch tests all resolutions of DS18B20, writes values in alarm trigger registers, and measures conversion time, it uses OLED display as Output (or serial.).
 The fake sensor doesn't support 9, 10-bit resolution, and doesn't store values in alarm registers. Also, my fake sensor has a very short conversion time of 35 ms at 12bit, the normal sensor needs about 600 ms at 12bit
 # Components
-ESP8266: https://s.click.aliexpress.com/e/_97j7kp
+ESP8266: [https://s.click.aliexpress.com/e/_De5gu7f](https://s.click.aliexpress.com/e/_De5gu7f)
 
-OLED Display: https://s.click.aliexpress.com/e/_9AdhMZ
+SSD1306 OLED I2C Display: [https://s.click.aliexpress.com/e/_c4Ci1fiP](https://s.click.aliexpress.com/e/_c4Ci1fiP)
 
 # Demo
 Watch how it works https://youtu.be/gzyqUVxOktY
